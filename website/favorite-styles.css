@@ -63,5 +63,18 @@ header h2 {
     line-height: 1em;
     letter-spacing: 0.12em;
 }
+.container {
+    border-width: 95%;
+    border-color: #2A6D73;
+}
+.aayear {
+    border-width: 90% 90% 90% 50%;
+    border-color: #389D8D;
+    text-align: left;
+    font-style: italic;
+    border-left-style: dotted;
+}
+
+
 body {
 }
