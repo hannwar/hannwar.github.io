@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- TemplateBeginEditable name="doctitle" -->
-    <title>Favorite City Tour</title>
+    <title>My Website</title>
      <meta name="description" content="This is my placeholder description, please change for each page"><!-- TemplateEndEditable -->
    
 
@@ -21,7 +21,7 @@
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item"> <a class="nav-link" href="#">Home</a> </li>
+          <li class="nav-item"><a href="../Design1.html" class="nav-link"> Home</a> </li>
           <li class="nav-item"> <a class="nav-link" href="#">Event</a></li>
           <li class="nav-item"> <a class="nav-link" href="#">Brand</a></li>
           <li class="nav-item"> <a class="nav-link" href="#">Research</a></li>
@@ -204,7 +204,7 @@
           </address>
           <address class="col-lg-6">
             <strong>Hannah Warren</strong><br>
-            <a href="mailto:#">hannwar@siue.edu</a>
+            <a href="mailto:hannwar@siue.edu">hannwar@siue.edu</a>
           </address>
         </div>
       </div>

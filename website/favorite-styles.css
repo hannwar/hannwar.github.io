@@ -1,7 +1,11 @@
 @charset "utf-8";
 .bg-dark {
-    background-color: #0E2623
+    background-color: #000
 !important;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 .navbar-dark .navbar-nav .nav-link {
     color: #060809;
@@ -26,9 +30,120 @@
 header {
     background-image: url(markus-spiske-k0rVudBoB4c-unsplash(1)
 .jpg);
-    height: 212px;
-    background-size: 100% auto;
+    height: 300px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    background-size: 100%
+%;
     background-position: center center;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -40,7 +155,18 @@ header {
 
     background-image: url(markus-spiske-k0rVudBoB4c-unsplash(1)
 .jpg);
-    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/002/703/812/small/dark-green-template-with-sky-clouds-vector.jpg);
+    background-image: url(ahsokatano1.jpg);
+    background-size: auto auto;
+    background-origin: padding-box;
+    background-clip: padding-box;
+    -webkit-box-shadow: 10px 10px #000000;
+    box-shadow: 10px 10px #000000;
+    text-decoration: none;
+    text-shadow: 0px 0px 10px #000;
+    letter-spacing: 0px;
+    font-weight: bolder;
+    font-size: x-small;
+    font-style: italic;
     background-repeat: no-repeat;
 }
 header p {
@@ -77,4 +203,14 @@ header h2 {
 
 
 body {
+}
+.btn-link {
+}
+
+a {
+    color: #DB2528;
+}
+
+a:hover {
+    color: #356D1F;
 }
