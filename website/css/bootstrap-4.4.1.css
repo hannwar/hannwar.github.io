@@ -4519,6 +4519,7 @@ input[type="button"].btn-block {
   .navbar-expand-lg .navbar-nav {
     -ms-flex-direction: row;
     flex-direction: row;
+    text-align: center;
   }
   .navbar-expand-lg .navbar-nav .dropdown-menu {
     position: absolute;
@@ -4755,10 +4756,15 @@ input[type="button"].btn-block {
 }
 
 .card-body {
-  -ms-flex: 1 1 auto;
-  flex: 1 1 auto;
-  min-height: 1px;
-  padding: 1.25rem;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+    background-color: #000000;
+    background-image: -webkit-linear-gradient(270deg,rgba(8,6,6,1.00) 0%,rgba(33,110,171,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(8,6,6,1.00) 0%,rgba(33,110,171,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(8,6,6,1.00) 0%,rgba(33,110,171,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(8,6,6,1.00) 0%,rgba(33,110,171,1.00) 100%);
 }
 
 .card-title {
@@ -4838,8 +4844,9 @@ input[type="button"].btn-block {
 
 .card-img,
 .card-img-top {
-  border-top-left-radius: calc(0.25rem - 1px);
-  border-top-right-radius: calc(0.25rem - 1px);
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+    background-image: url(url);
 }
 
 .card-img,
@@ -9944,7 +9951,8 @@ button.bg-dark:focus {
 }
 
 .text-center {
-  text-align: center !important;
+    text-align: center !important;
+    color: #FAF6F6;
 }
 
 @media (min-width: 576px) {
@@ -10225,4 +10233,6 @@ a.text-dark:hover, a.text-dark:focus {
 /*# sourceMappingURL=bootstrap.css.map */.text-alighn {
 }
 .text-align {
+}
+.fill-card-body {
 }

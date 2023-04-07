@@ -13,7 +13,7 @@
 }
 .navbar-nav .nav-item  {
     border: 1px solid #159EBE;
-    width: 108px;
+    width: 200px;
     background-image: -webkit-linear-gradient(270deg,rgba(247,237,237,1.00) 0%,rgba(255,255,255,1.00) 2.42%,rgba(255,255,255,1.00) 4.84%,rgba(255,255,255,1.00) 27.63%,rgba(150,151,164,1.00) 50.09%,rgba(11,12,12,1.00) 100%);
     background-image: -moz-linear-gradient(270deg,rgba(247,237,237,1.00) 0%,rgba(255,255,255,1.00) 2.42%,rgba(255,255,255,1.00) 4.84%,rgba(255,255,255,1.00) 27.63%,rgba(150,151,164,1.00) 50.09%,rgba(11,12,12,1.00) 100%);
     background-image: -o-linear-gradient(270deg,rgba(247,237,237,1.00) 0%,rgba(255,255,255,1.00) 2.42%,rgba(255,255,255,1.00) 4.84%,rgba(255,255,255,1.00) 27.63%,rgba(150,151,164,1.00) 50.09%,rgba(11,12,12,1.00) 100%);
@@ -25,7 +25,6 @@
     margin-top: 1em;
     letter-spacing: 0.12em;
     text-shadow: 0px 5px 11.05px;
-    text-align: center;
 }
 header {
     background-image: url(markus-spiske-k0rVudBoB4c-unsplash(1)
@@ -203,6 +202,7 @@ header h2 {
 
 
 body {
+    background-color: #000;
 }
 .btn-link {
 }
