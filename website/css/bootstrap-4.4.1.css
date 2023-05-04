@@ -79,8 +79,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-  margin-top: 0;
-  margin-bottom: 1rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #CEC8C8;
 }
 
 abbr[title],
@@ -103,8 +104,9 @@ address {
 ol,
 ul,
 dl {
-  margin-top: 0;
-  margin-bottom: 1rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #73ACE5;
 }
 
 ol ol,
@@ -203,7 +205,8 @@ svg {
 }
 
 table {
-  border-collapse: collapse;
+    border-collapse: collapse;
+    color: #F2F4F6;
 }
 
 caption {
@@ -372,7 +375,9 @@ h2, .h2 {
 }
 
 h3, .h3 {
-  font-size: 1.75rem;
+    font-size: 1.75rem;
+    color: #CECFD0;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 h4, .h4 {
@@ -9953,6 +9958,7 @@ button.bg-dark:focus {
 .text-center {
     text-align: center !important;
     color: #FAF6F6;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
 }
 
 @media (min-width: 576px) {
@@ -10235,4 +10241,7 @@ a.text-dark:hover, a.text-dark:focus {
 .text-align {
 }
 .fill-card-body {
+}
+
+@media screen and (max-width:991.98px){
 }
